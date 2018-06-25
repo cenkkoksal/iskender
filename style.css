@@ -1,0 +1,20 @@
+body    
+{
+    font-family: sans-serif;
+    color:black;
+    font-size:14px;
+    background-image: url(https://cdn2.slidemodel.com/wp-content/uploads/7243-01-low-poly-background-16x9-1.jpg);
+    width:50%;
+    margin: auto;
+    
+
+}
+h1{
+    text-align: center;
+    
+}
+
+
+img {
+    border: dotted black;
+    
